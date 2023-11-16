@@ -1,0 +1,40 @@
+ID,NAME,DESC,TO_LOC,IMAGE,GROUPS,ORDER,CATEG,WHERE
+compare-sample-means-same-pop,Comparing Sample Means from the same population,Explore comparative boxplots and strip charts for three samples taken from the same population,/root/compare-sample-means-same-pop,tbd,tbd,tbd,anova,tbd
+f-distr-choose-means,Compare a null F-distribution to a simulated F-sampling distribution based on setting sample means,Explore whether a simulated F-distribution differs from a null F-distribution,/root/f-distr-choose-means,tbd,tbd,tbd,anova,tbd
+f-stat-compare-choose-means,Compare variation between and within groups for samples from three populations,"Explore how variation between groups, within groups, and the F-statistic changes as the user controls the means of the populations from which we sample.",/root/f-stat-compare-choose-means,tbd,tbd,tbd,anova,tbd
+ci-mean-choose-me,"Confidence Interval for means, Choosing a Margin of Error",Explore how margin of error and sample size affect the success rate of the confidence interval process,/root/ci-mean-choose-me,tbd,tbd,tbd,ci,tbd
+ci-mean-t-interval,Confidence Interval for means using a t-distribution margin of error.,Explore how t-distribution fixes the low success rate with small samples,/root/ci-mean-t-interval,tbd,tbd,tbd,ci,tbd
+ci-mean-wald-sigma,Confidence interval for means using normal distribution when sigma is known,"Explore how z-distribution can give us a good margin of error formula when we know sigma, the population standard deviation",/root/ci-mean-wald-sigma,tbd,tbd,tbd,ci,tbd
+ci-mean-wald-sigma-unknown,Confidence interval for means using normal distribution when we do not know sigma,Explore how z-distribution does not work well on small sample sizes when we use the sample standard deviation in place of sigma.,/root/ci-mean-wald-sigma-unknown,tbd,tbd,tbd,ci,tbd
+ci-perc-agresti-coull,Confidence interval for percentages using Agresti-Coull bounds,Explore how the agresti-coull method fairs better than the wald interval in certain cases,/root/ci-perc-agresti-coull,tbd,tbd,tbd,ci,tbd
+ci-perc-wald,Confidence interval for percentages using the wald method,Explore how the wald method only has good success rates in certain situations,/root/ci-perc-wald,tbd,tbd,tbd,ci,tbd
+ci-samp-distr-demo,Sampling distribution for the mean leads to CI success ,Explore how the sampling distribution for the mean leads to a certain success rate.,/root/ci-samp-distr-demo,tbd,tbd,tbd,ci,tbd
+chebyshevs,Chebyshevs inequality,Explore how chebyshevs inequality holds for different distributions,/root/chebyshevs,tbd,tbd,tbd,desc-stats,tbd
+empirical-rule,Empirical rule,Explore how the empirical rule holds as you adjust the mean and sd for a normal distribution,/root/empirical-rule,tbd,tbd,tbd,desc-stats,tbd
+measures-center,Limitations of means and medians,"Explore how measures of center are affected by outliers, multi-modal distributions, and skewed data",/root/measures-center,tbd,tbd,tbd,desc-stats,tbd
+actual-null-samp-distr-compare-perc,Compare sampling distributions of means between a null and actual population,Explore how sampling distributions for means differ between an actual population and null population chosen by the user,/root/actual-null-samp-distr-compare-perc,tbd,tbd,tbd,ht,tbd
+actual-null-samp-distr-compare-means,Compare sampling distributions of percentages between a null and actual population,Explore how sampling distributions for percentages differ between an actual population and null population chosen by the user,/root/actual-null-samp-distr-compare-means,tbd,tbd,tbd,ht,tbd
+compare-two-sample-means-same-pop,Compare sample means from two populations with the same population mean,Explore how sampling variation can trick you into thinking two populations have different means.,/root/compare-two-sample-means-same-pop,tbd,tbd,tbd,ht,tbd
+ht-process-tabs,Steps for hypothesis testing,Explore the steps of hypothesis testing to see the role of probability models and understand p-values,/root/ht-process-tabs,tbd,tbd,tbd,ht,tbd
+two-sample-means-table,Comparing sample means from potentially different populations,Explore via a table of sample means and a difference of sample means how sample means vary when taken from two populations,/root/two-sample-means-table,tbd,tbd,tbd,ht,tbd
+p-vals-distribution,Considering the distribution of P-values,"Explore how the distribution of p-values for a hypothesis test changes as you adjust sample size, effect size, and significance level",/root/p-vals-distribution,tbd,tbd,tbd,power,tbd
+power,Statistic power visualization,"Visually explore how the power of a statistical test is affected by sample size, effect size, and significance level.",/root/power,tbd,tbd,tbd,power,tbd
+binom-distribution,Binomial Distribution,Explore the binomial distribution,/root/binom-distribution,tbd,tbd,tbd,probdist,tbd
+chisq-distribution,Chi-squared Distribution,Explore the chi-squared distribution,/root/chisq-distribution,tbd,tbd,tbd,probdist,tbd
+f-distribution,F-Distribution,Explore the F-distribution,/root/f-distribution,tbd,tbd,tbd,probdist,tbd
+norm-distr-explore,Normal Distribution,Explore the normal distribution,/root/norm-distr-explore,tbd,tbd,tbd,probdist,tbd
+t-distr-histogram-to-density,T-Distribution,Explore the t-distribution,/root/t-distr-histogram-to-density,tbd,tbd,tbd,probdist,tbd
+t-vs-norm-compare,Comparing t and normal distributions,Compare the t-distributions to the standard normal distribution,/root/t-vs-norm-compare,tbd,tbd,tbd,probdist,tbd
+normality-hist-qq,Histogram and qq-plots for different shaped data,"Explore how normality, and other shapes, appear in histograms and in a QQ-plot",/root/normality-hist-qq,tbd,tbd,tbd,regression,tbd
+regression-variation,Explore sampling variation in regression,Explore how sampling from a population creates variation in your regressions statistics,/root/regression-variation,tbd,tbd,tbd,regression,tbd
+bias-sample-mean,,,,tbd,tbd,tbd,sampling-demo,tbd
+bias-sample-perc,,,,tbd,tbd,tbd,sampling-demo,tbd
+,,,,tbd,tbd,tbd,sampling-demo,tbd
+,,,,tbd,tbd,tbd,sampling-demo,tbd
+,,,,tbd,tbd,tbd,sampling-demo,tbd
+,,,,tbd,tbd,tbd,sampling-demo,tbd
+,,,,tbd,tbd,tbd,sampling-demo,tbd
+central-limit-theorem,Explore the Central Limit Theorem Visually,Visually explore the implications of the central limit theorem,/root/central-limit-theorem,tbd,tbd,tbd,sampling-distr,tbd
+difference-in-means-sampdist,Sampling distributions for comparing means in two populations,Visually explore how sampling distributions help us compare the two population means via sampling.,/root/difference-in-means-sampdist,tbd,tbd,tbd,sampling-distr,tbd
+sample-percentages-sampdist,Explore the sampling distribution of sample percentages,Generate a sampling distribution for sample percentages based on a population,/root/sample-percentages-sampdist,tbd,tbd,tbd,sampling-distr,tbd
+simulations,Explore the Law of Large Numbers,Three simulations show the impact of the law of large numbers on random events.,/root/simulations,tbd,tbd,tbd,law-large-numbers,tbd
