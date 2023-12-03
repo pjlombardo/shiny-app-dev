@@ -1,0 +1,14 @@
+.DS_Store
+*/.DS_Store
+*/*/.DS_Store
+*/*/*/.DS_Store
+
+.RData
+*/.RData
+*/*/.RData
+*/*/*/.RData
+
+.Rhistory
+*/.Rhistory
+*/*/.Rhistory
+*/*/*/.Rhistory
