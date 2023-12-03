@@ -11,6 +11,7 @@ get_null_population<-function(mu,sigma){
     data.frame(values=rnorm(5000,mu,sigma))
 }
 
+
 get_null_sampling_means<-function(population,m=5000,n=20){
     sample_means<-numeric(m)
     for (j in 1:m){

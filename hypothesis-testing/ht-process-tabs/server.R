@@ -2,6 +2,7 @@ library(shiny)
 library(ggplot2)
 library(latex2exp)
 
+source('functions.R')
 
 # Define server logic required to draw a histogram
 server <- function(input, output) {

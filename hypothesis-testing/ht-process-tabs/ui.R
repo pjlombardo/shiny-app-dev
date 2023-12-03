@@ -36,7 +36,7 @@
                                                     h4(uiOutput("null_hyp1")),
                                                     h4(uiOutput("alt_hyp1")),
                                                     sliderInput("mu_0","Select Null Hypothesis Mean:", 
-                                                                min=90, max=110,step=1, value=100),
+                                                                min=90, max=110,step=1, value=95),
                                                     br(),
                                                     sliderInput("sample_size","Select the sample size:",
                                                                 min=5, max=100,step=1, value=15),
